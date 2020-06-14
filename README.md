@@ -2,7 +2,7 @@
   
 This is a repository with algorithms that every programmer should know/learn.  
   
-**Sumary:**  
+**Summary:**  
   
  - Dynamic Programming
  - Sort Algorithms
@@ -13,7 +13,7 @@ This is a repository with algorithms that every programmer should know/learn.
 
 ## Dynamic Programming
 
-Dynamic Programming stores the result of sub-problems for re-computation, for future use. This simple optimization reduuces time complexities from exponential to polynomial time.
+Dynamic Programming stores the result of sub-problems for re-computation, for future use. This simple optimization reduces time complexities from exponential to polynomial time.
 
 **Example:**
 
@@ -37,7 +37,7 @@ This is used to rearrange arrays or given list of elements according to a compar
  - Heap Sort
 
 ## Search Algorithms
-Designed to retrieve information stored within a data strcture
+Designed to retrieve information stored within a data structure
 
 **Example:**
 
