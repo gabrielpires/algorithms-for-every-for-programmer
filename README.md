@@ -7,21 +7,21 @@ This is a repository with algorithms that every programmer should know/learn.
  - Dynamic Programming
  - Sort Algorithms
  - Search Algorithms
- - Greedy Algoritms
+ - Greedy Algorithms
  - Recursive Algorithms
 
 
 ## Dynamic Programming
 
-Dynamic Programmoing stores the result of sub-problems for re-computation, for future use. This simple optimization reduuces time complexities from exponential to polynomial time.
+Dynamic Programming stores the result of sub-problems for re-computation, for future use. This simple optimization reduuces time complexities from exponential to polynomial time.
 
 **Example:**
 
  - Fibonacci Number Series
  - Knapsack problem
  - Shortest Path by Dijkstra
- - Matrix Chain Maultiplication
- - Tower of Hanoi
+ - Matrix Chain 
+ 
 
 ## Sort Algorithms
 
@@ -41,7 +41,7 @@ Designed to retrieve information stored within a data strcture
 
 **Example:**
 
- - Liniear Search
+ - Linear Search
  - Binary Search
  - Depth first Search
  - Breadth first Search
@@ -51,8 +51,8 @@ An algorithms paradigm that builds up a solution piece by piece, always choosing
 
 **Example**
 
- - Hyffman Coding
- - Factionakl knapsack
+ - Huffman Coding
+ - Factional knapsack
  - Problem
  - Activity Selection
  - Job Sequencing Problem
@@ -65,7 +65,6 @@ An algorithms which calls itself with smaller or simpler input values. The resul
  - Factorial Exponential
  - Tower of Hanoi
  - Tree Traversal
- - Depth first Search
 
 
 I'm making this repo available as a studying tool to help other developers.
