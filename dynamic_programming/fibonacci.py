@@ -1,5 +1,4 @@
 import time
-import helper
 
 """
     Fibonacci Function using dynamic programming
@@ -34,6 +33,7 @@ def fibonacci_without_dynamic(number) -> int:
 
 
 fibonacci_sequence = {}
+
 
 def fibonacci_with_dynamic(number) -> int:
     """
@@ -70,12 +70,16 @@ def fibonacci_with_dynamic(number) -> int:
     return calculation
 
 
+def execution_time(started):
+    print('Executed in:', round(time.time() - started, 4), ' seconds')
+
+
 # without dynamic programming
 start = time.time()
 print(fibonacci_without_dynamic(35))
-helper.execution_time(start)
+execution_time(start)
 
 # with dynamic programing
 start = time.time()
 print(fibonacci_with_dynamic(35))
-helper.execution_time(start)
+execution_time(start)
