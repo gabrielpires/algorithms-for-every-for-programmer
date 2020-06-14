@@ -1,4 +1,4 @@
-### Algorithms for every programmer  
+# Algorithms for every programmer  
   
 This is a repository with algorithms that every programmer should know/learn.  
   
